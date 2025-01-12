@@ -1,14 +1,13 @@
 <h1 style="color:blue;"> Welcome to my profile! Selin here! 👋 </h1>
 ---
+
 <center>
-- 💻 I am a passionate Frontend Developer! 
-- 😄 I love React because Angular is too hard for me and its too complicated *chuckles* 
+  <div style="display: flex;">
+# - 💻 I am a passionate Frontend Developer! 
+# - 😄 I love React because Angular is too hard for me and its too complicated *chuckles* 
 
 ![image](https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif))
-</center>
-
-<center>
-  <img src="https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif">
+</div>
 </center>
 
 
