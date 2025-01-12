@@ -4,7 +4,11 @@
 - 💻 I am a passionate Frontend Developer! 
 - 😄 I love React because Angular is too hard for me and its too complicated *chuckles* 
 
-![image](https://github.com/user-attachments/assets/3139d3c5-a469-4b7d-ab34-0d8795448750)
+![image](https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif))
+</center>
+
+<center>
+  <img src="https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif">
 </center>
 
 
