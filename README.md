@@ -4,7 +4,7 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <p>- 💻 I am a passionate Frontend Developer!</p>
     <p>- 😄 I love React because Angular is too hard for me and it's too complicated *chuckles*</p>
-    <img src="https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif" alt="keddo" />
+    <img src="https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif" alt="keddo" style="width:100px;" />
   </div>
 </center>
 
