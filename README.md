@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 style="color:blue;"> Welcome to my profile! Selin here! 👋 </h1>
+---
+<center>
+- 💻 I am a passionate Frontend Developer! 
+- 😄 I love React because Angular is too hard for me and its too complicated *chuckles* 
+
+![image](https://github.com/user-attachments/assets/3139d3c5-a469-4b7d-ab34-0d8795448750)
+</center>
+
+
 
 <!--
 **Riddox/Riddox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
