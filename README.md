@@ -1,12 +1,10 @@
 <h1 style="color:blue;">Welcome to my profile! Selin here! 👋</h1>
 
----
-
 <center>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <p>- 💻 I am a passionate Frontend Developer!</p>
     <p>- 😄 I love React because Angular is too hard for me and it's too complicated *chuckles*</p>
-    <img src="https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif" alt="laughing cat" />
+    <img src="https://media.tenor.com/eEImeJOo-58AAAAM/cat-laughing-meme.gif" alt="keddo" />
   </div>
 </center>
 
